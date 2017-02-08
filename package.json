@@ -6,6 +6,9 @@
   "directories": {
     "test": "test"
   },
+  "jspm": {
+    "main": "dist/mixwith.js"
+  },
   "dependencies": {},
   "devDependencies": {
     "babel-plugin-transform-es2015-modules-umd": "^6.1.18",
